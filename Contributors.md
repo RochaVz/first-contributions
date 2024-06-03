@@ -1,4 +1,5 @@
 # Contributors
+-[RochaVz](https://github.com/RochaVz)**just easy to solve**
 aiymzhann08
 - [ARPAN SHARMA](https://github.com/adach2) **LIFE IS GOOD✌️**
 - [Pratik Sondaule](https://github.com/pratikSondaule)
